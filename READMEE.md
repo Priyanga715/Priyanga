@@ -18,7 +18,7 @@ I am passionate about turning raw data into meaningful insights using tools like
 ### 1. Sales Performance Dashboard (Power BI)
 - **Description**: An interactive Power BI dashboard analyzing sales trends by region, category, and time period.
 - **Skills Used**: Data Cleaning, DAX, Visualization
-- **File**: *(https://drive.google.com/file/d/1URm1dW3RiCFsZPpZ6loqzIbSwhOV8gCW/view?usp=drive_link)*
+- **File**: [Download Dashboard](./Sales_Performance.pbix) *(https://drive.google.com/file/d/1URm1dW3RiCFsZPpZ6loqzIbSwhOV8gCW/view?usp=drive_link)*
 
 ---
 
